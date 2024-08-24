@@ -1,2 +1,2 @@
-# Estudando-controle-repeti-o-DIO
+# Estudando-controle-repetição-DIO
 Estudo sobre controle de repetição.
