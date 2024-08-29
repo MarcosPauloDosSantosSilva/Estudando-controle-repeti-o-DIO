@@ -21,8 +21,9 @@ public class ExemploExcecoes {
             Double altura = sc.nextDouble();
 
             System.out.println("Ola, me Chamo " + nome.toUpperCase() + "");
-            System.out.println("Tenho" + idade + "anos");
-            System.out.println("Minha altura é " + altura + "cm");
+            System.out.println("Meu sobrenome é  " + sobrenome.toUpperCase() + "");
+            System.out.println("Tenho " + idade + " anos ");
+            System.out.println("Minha altura é " + altura + " cm ");
 
             sc.close();
         } catch (InputMismatchException e) {
