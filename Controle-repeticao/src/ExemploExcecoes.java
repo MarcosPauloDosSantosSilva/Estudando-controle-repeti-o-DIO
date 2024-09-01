@@ -27,7 +27,7 @@ public class ExemploExcecoes {
 
             sc.close();
         } catch (InputMismatchException e) {
-            System.out.println("O campo idade e altura precisam ser numericos, não adicionar virgulas.");
+            System.out.println("O campo idade e altura precisam ser numericos, e não adicionar virgulas.");
         }
     }
 
